@@ -33,12 +33,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Owner and Founder"
+  company = "Zmich Consulting"
+  company_url = "https://zmichconsulting.com"
+  location = "Ruston, Louisiana"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """Provide small business social media guidance and website design."""
+  Responsibilities include:
+  
+  * Google Analytics 
+  * Website and Social Media Design 
+  * Small Business Marketing Guidance
 +++
