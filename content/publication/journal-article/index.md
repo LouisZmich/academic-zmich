@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Services Marketing*"
-publication_short: "IMM"
+publication_short: "JSM"
 
 abstract: Touch is the least studied sense in marketing research (Peck & Childers, 2008; Krishna, 2011). 
 Our sense of touch, however, plays a crucial role in healthy emotional, social, and physical 
@@ -103,7 +103,7 @@ behaviors.
 tags:
 - Sales
 - Meta-analysis
-featured: True
+featured: False
 
 # links:
 # - name: ""
