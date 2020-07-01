@@ -1,9 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Be Honest with Me: What Happens when Social Media Influencers Lie?"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Breanne Mertz
+- Cameron Sumlin
+- Julie Mulard
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,22 +18,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Academy of Marketing Science*
+publication_short: In *AMS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Social media influencers (SMIs), which represent a “new type of independent third-party endorser who shape audience attitudes through blogs, tweets, and the use of other social media” (Freberg et al., 2011, p. 90), have increased exponentially over recent years. As of the writing of this manuscript, there are over 3,500 people on YouTube who have a following of over three-million subscribers (Social Blade). Not all SMIs are this big; however; several micro-influencers exist. Marnie Goldberg has just over 100,000 subscribers on YouTube. Marnie showcases her daily-life story, from her book clubs to vacations with her family, all while reviewing items from her newfound passion. Followers become invested in SMI’s stories and maintain interest throughout their subsequent life journey. These stories captivate onlookers, draw in followers, and form a cult-like interest in people found on the internet.Given the increased accessibility to SMIs through platforms like YouTube and Instagram, and considering the life story communicated to expansive SMI audiences over long periods of time, it’s no wonder that, in 2019, the money spent sponsoring SMIs topped $8 billion in net worth, and is projected to reach $15 billion in net worth by 2022 (Schomer, 2019). This new phenomenon is referred to as influencer marketing (Audrezet et al ., 2018), a strategy traditional brands use in which they promote their products via social media influencers. Influencer marketing is becoming so popular we are now seeing university programs dedicated to the phenomena. An Italian university, eCampus, is now offering a three-year program to earn a degree in social media influencing, particularly on Instagram (Bertacche et al., 2019).
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This manuscript attempts to address the following questions, do influencer "stories,” which attempt to showcase authentic behavior, positively affect viewer attitudes? Further, what if the stories portrayed by SMIs are not true? Do the lies actually matter? This manuscript examines the relationship of SMI storytelling, authenticity, and attitudes towards the SMIs. Authenticity has recently been broken down into three concepts, True-to-Ideal (TTI), True-to-Self (TTS), and Trueto-Fact (TTF). The latter facet is this study's focal point.
+
 
 tags:
-- Source Themes
-featured: False
+- Social Media Influencers
+- Authenticity
+featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -43,7 +47,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Photo by George Pagan III on Unsplash**](https://unsplash.com/photos/f-PH16nZHKI)'
   focal_point: ""
   preview_only: false
 
@@ -62,6 +66,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-
 

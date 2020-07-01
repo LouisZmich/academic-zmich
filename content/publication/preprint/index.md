@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Are B2B Salespeople Going Extinct? Making Subject-matter Experts Through Socio-political Technical Networks"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Jennifer Locander
+- William B. Locander
+date: "2020-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,22 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Journal of Personal Selling and Sales Management"
+publication_short: "JPSSM"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Salespeople are becoming an afterthought in B2B transactions. If the buying process for B2B purchasing agents were a dance, salespeople are not being invited to the "party." The 2018 Miller Heiman Group survey from CSO Insights highlights this information gap. The survey questioned 500 B2B buyers working for medium to large-sized companies and found that buyers preferred eight other resources (subject matter experts, past vendor experience, vendor websites, trade shows, peers, social networks, trade media, and web searches) before considering salespeople to solve business problems (Miler Heiman Group). So naturally, we are left with the question, "do we need B2B salespeople anymore?" We buy groceries, books, furniture, insurance, even cars without salespeople in today's highly technological world. Maybe salespeople have suffered the "Darwin effect." Maybe B2B salespeople are going extinct. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Do we need B2B salespeople anymore? We buy groceries, books, furniture, insurance, even cars without salespeople in today's highly technological world. Maybe salespeople have suffered the "Darwin effect." Maybe B2B salespeople are going extinct.
 
 tags:
-- Source Themes
+- Sales
+- e-communication
+- Influence Tactics
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- 
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -42,7 +45,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Photo by Bannon Morrissy on Unsplash**](https://unsplash.com/photos/2N8Axo4z0ic)'
   focal_point: ""
   preview_only: false
 
