@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/cv.pdf
+   link: https://www.linkedin.com/in/louiszmich/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABi0KcsBNFHFrq1bu8TUNRIgFFIrgGytqJo,1587481737230)/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
