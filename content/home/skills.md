@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "salesforce"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Sales"
   description = "Salesforce, Sales Technology, and Social Media Analysis"
 
