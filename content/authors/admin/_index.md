@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: DBAA in Marketing and Sales
+  - course: DBA in Marketing and Sales
     institution: Louisiana Tech University
     year: 2022
   - course: Masters of Information Systems
