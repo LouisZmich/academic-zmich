@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Louis J. Zmich
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Marketing and Sales Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Louisiana Tech University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include salesperson influence tactics, e-communication in the context of selling technology, measurement theory, and social media influencers in the sales context.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- B2B Salesperson Influence Tactics 
+- e-Communication in the Context of Selling Technology
+- Measurement Theory: Social Media Influencers in the Sales Context
 
 education:
   courses:
