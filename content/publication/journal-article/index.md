@@ -36,7 +36,7 @@ tags:
 - Sales
 - Touch 
 - Meta-analysis 
-featured: false
+featured: true
 
 # links:
 # - name: ""
