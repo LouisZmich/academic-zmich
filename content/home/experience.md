@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Ruston, Louisiana"
   date_start = "2018-09-01"
   date_end = ""
-  description = ""
-  Responsibilities include: 
+  description = """
+  Responsibilities include:
   
   * Research
   * Teaching
