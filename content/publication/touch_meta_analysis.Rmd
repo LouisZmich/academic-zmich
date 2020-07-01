@@ -12,9 +12,9 @@ Amin Saleh, Louisiana Tech University
 Louis J. Zmich, Louisiana Tech University  
 Barry J. Babin, University of Mississippi  
 
-```r
+
 For further information, please contact Amin Saleh, Doctoral Candidate, mas070@latech.edu 
-```
+
  
 Keywords: meta-analysis, salespeople, interpersonal, touch, behavior 
 Description: This meta-analysis shows results from over 30 years of research that indicates 
