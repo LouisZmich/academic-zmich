@@ -7,4 +7,4 @@ output: html_document
 
 As Director of Marketing, created the weblog topic structure, contribute guest posts, and guide three student writers todate (listed as authors here) on content development. Administer the weblog and post broadcasts across all college digital channels.
 
-<http://cobalpha.niu.edu/studentvoices/>
+[Student Voices Blog](http://cobalpha.niu.edu/studentvoices/)

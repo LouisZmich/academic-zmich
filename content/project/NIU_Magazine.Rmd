@@ -7,4 +7,4 @@ output: html_document
 
 Co-produced, wrote a featured story, and provided photographs for this magazine while working as Michelle De Jean's Marketing and Social Media intern. 
 
-<https://issuu.com/northernillinoisuniversity/docs/48936_niu_business_magazine_bb_v8_s?e=1858810%2F55596148>
+[NIU CoB Magazine](https://issuu.com/northernillinoisuniversity/docs/48936_niu_business_magazine_bb_v8_s?e=1858810%2F55596148)
