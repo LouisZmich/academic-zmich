@@ -22,8 +22,8 @@ bio: My research interests include salesperson influence tactics, e-communicatio
 
 interests:
 - B2B Salesperson Influence Tactics 
-- e-Communication: Context of Selling Technology
-- Measurement Theory: Social Media Influencers
+- e-Communication - Context of Selling Technology
+- Measurement Theory - Social Media Influencers
 
 education:
   courses:
