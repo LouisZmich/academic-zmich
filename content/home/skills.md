@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Coded this website and others in R-Studio via Hugo Themes."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Data Analysis in R, STATA, SPSS, and SAS."  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "salesforce"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Sales"
+  description = "Salesforce, Sales Technology, and Social Media Analysis"
 
 # Uncomment to use emoji icons.
 # [[feature]]
