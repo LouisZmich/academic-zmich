@@ -1,6 +1,16 @@
 ---
-date: "2020-07-01"
 title: My Dollar Is My Identity: How Moral Priming of Women and Men Affects Charitable Donations
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: "Photo by Alexandra Lammerink"
+  image: "//static/img/donate.jpg"
 ---
 
 Americans have consistently demonstrated generosity with regard to charitable donations. In fact, the United States ranks in the top five nations for giving to charities, collecting close to $300 billion in 2018. However, this constitutes around 2% of the United States’ disposable income, a rather small percentage that has been a consistent limit to U.S. donations for over 40 years. Why does this 2% giving cap exist? What factors are at play here? These questions are significant when we consider that not-for-profits are one of the most important agencies in solving social problems such as poverty, inequality, and pollution at a global level. Our society is rife with not-for-profits that are determined to make a difference in the world but are heavily reliant on their donors. Although not-for-profits take advantage of donation days and various other charitable drives that occur throughout the year, and see higher donations in times of natural disasters, they still struggle with the 2% giving cap. The impact of the current COVID situation on the global society underscores the importance of understanding the drivers of giving behavior and donations and breaking through this giving ceiling.
