@@ -1,7 +1,7 @@
 ---
-title: "UNDER REVIEW: Salesperson Touch Meta-Analysis"
-author: "Saleh, Amin, L.J. Zmich, B.J. Babin "
-date: "2019-2020"
+title: 'UNDER REVIEW: Salesperson Touch Meta-Analysis'
+author: "Louis J Zmich"
+date: "7/1/2020"
 output: html_document
 ---
 
