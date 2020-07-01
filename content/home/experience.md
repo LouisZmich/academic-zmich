@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Ruston, Louisiana"
   date_start = "2020-01-01"
   date_end = ""
-  description = """Provide small business social media guidance and website design."""
+  description = """Small business social media guidance and website design."""
   Responsibilities include:
   
   * Google Analytics 
