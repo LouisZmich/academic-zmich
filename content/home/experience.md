@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = ""
   description = "Develop proficiency in quantitative analysis, marketing theory, and research methodology."
-  Responsibilities include: Collaborate with professors and doctoral students on the development and execution of academic research projects
+  Responsibilities include: 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research
+  * Teaching
+  * Service
   """
 
 [[experience]]
