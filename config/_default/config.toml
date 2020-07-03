@@ -22,7 +22,7 @@ copyright = "Built, Coded, and Managed by Louis J. Zmich in R via Hugo Templates
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
-googleAnalytics = "UA-116140481-1"
+googleAnalytics = "UA-116140481-1""
 
 # Get last modified date for content from Git?
 enableGitInfo = false
