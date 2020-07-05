@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Advanced Google Analytics"
+  organization_url = "https://analytics.google.com/analytics/academy/"
+  title = "Advanced Google Analytics"
+  url = ""
+  certificate_url = "https://analytics.google.com/analytics/academy/certificate/nIoCt9AAT4ihYmUSgRAC8Q"
+  date_start = "2020-07-01"
+  date_end = "2023-07-01"
+  description = "
+
+[[item]]
   organization = "Google Analytics"
   organization_url = "https://analytics.google.com/analytics/academy/"
   title = "Google Analytics for Beginners"
