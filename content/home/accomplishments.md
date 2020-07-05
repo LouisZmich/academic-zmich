@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://analytics.google.com/analytics/academy/certificate/nIoCt9AAT4ihYmUSgRAC8Q"
   date_start = "2020-07-01"
   date_end = "2023-07-01"
-  description = "
+  description = ""
 
 [[item]]
   organization = "Google Analytics"
