@@ -1,9 +1,44 @@
 ---
-title: 'Beyond 1894 Podcast: Transcript'
-author: "Louis J Zmich"
-date: "04/22/2020"
-output: ioslides_presentation
+title: 'Beyond 1894 Podcast: Transcript Included'
+subtitle: 'The Art of the Sale: Louis Zmich'
+summary: Digging into the concept of selling and the undergraduate experience.
+authors:
+- admin
+- Amy Bell
+tags:
+- Academic
+- Sales
+- Podcast
+categories:
+- Podcast
+date: "2020-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Photo by Cytonn Photography on Unsplash**](https://unsplash.com/photos/n95VMLxqM2I)'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
+
+
+[Audio of the Podcast](https://1894.latech.edu/podcast/louis-zmich-the-art-of-the-sale)
+
+
+Transcript:
 
 Amy: You’re listening to Beyond 1894, a podcast where we hear from Louisiana Tech University scholars, innovators, and professionals on their personal journeys and the impact they are making in the world around them. I’m your host, Amy Bell, and my co-host is Teddy Allen
 
@@ -251,3 +286,4 @@ Amy: Well, Louis, it was great having you on the podcast. Thank you, so much, fo
 Amy: Thank you for listening to this episode of Beyond 1894. If you liked what you heard, please rate and review us. It will help others find our podcast. If you would like to find details about the episode, check out our show notes. To find our podcast webpage, go to 1894.latech.edu/beyond. If you have suggestions for future episodes email us at 1894@latech.edu. We would love your input, so tell us what you would like to hear!
 
 Amy: Beyond 1894 is produced by the Office of University Communications, with help from The Waggoner Center and The School of Music, at Louisiana Tech University. Dave Norris is the executive producer. I, Amy Bell, am the producer and chief editor, and Teddy Allen and I are co- hosts. The sound engineering for this episode was done by Jensen Gates and the music featured was arranged by Kaelis Ash.
+

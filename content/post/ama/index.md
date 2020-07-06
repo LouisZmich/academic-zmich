@@ -1,9 +1,40 @@
 ---
-title: "My Dollar Is My Identity: How Moral Priming of Women and Men Affects Charitable Donations"
-author: "Divya Ramachandran and Louis J. Zmich "
-date: "04/15/2020"
-output: html_document
+title: 'My Dollar Is My Identity: How Moral Priming of Women and Men Affects Charitable Donations'
+subtitle: 'Interviewing Shang et al. (2020) on Their Latest Published Works'
+summary: AMA DocSIG Interview 
+authors:
+- Divya Ramachandran
+- admin
+tags:
+- Academic
+- Article
+- AMA
+categories:
+- Review
+date: "2020-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Photo by Kat Yukawa on Unsplash**](https://unsplash.com/photos/n95VMLxqM2I)'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
+
+
 Americans have consistently demonstrated generosity with regard to charitable donations. In fact, the United States ranks in the top five nations for giving to charities, collecting close to $300 billion in 2018. However, this constitutes around 2% of the United States’ disposable income, a rather small percentage that has been a consistent limit to U.S. donations for over 40 years. Why does this 2% giving cap exist? What factors are at play here? These questions are significant when we consider that not-for-profits are one of the most important agencies in solving social problems such as poverty, inequality, and pollution at a global level. Our society is rife with not-for-profits that are determined to make a difference in the world but are heavily reliant on their donors. Although not-for-profits take advantage of donation days and various other charitable drives that occur throughout the year, and see higher donations in times of natural disasters, they still struggle with the 2% giving cap. The impact of the current COVID situation on the global society underscores the importance of understanding the drivers of giving behavior and donations and breaking through this giving ceiling.
 
 When someone gives to a good cause, their identity almost becomes tied to that mission. For instance, people donating to a clean water campaign might label themselves environmental activists, while people donating to an inequality campaign may consider themselves humanitarians. But in these two examples, does it matter whether a man or a woman donated to these campaigns? Does gender influence the dollar amounts donated? Shang and colleagues’ recently published research addresses these critical questions with regard to charitable donations by positioning their research between the pillars of moral identity, gender, and the role of giving behavior in reducing moral identity discrepancy (the gap between actual and ideal moral identity). The authors’ finding that women (but not men) who are primed with moral traits give approximately 20% more to charitable causes, suggesting gender differences in supporting a not-for-profit mission. Specifically, giving campaigns that shrink this gap between actual and ideal moral identity (in women) can receive more generous donations than campaigns that simply ask for donations.
