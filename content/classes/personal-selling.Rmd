@@ -1,0 +1,8 @@
+---
+title: 'Personal Selling'
+author: "Louis J Zmich"
+date: "7/1/2020"
+output: ioslides_presentation
+---
+
+ Material regarding the Personal Selling class will be presented here in the comming month.
