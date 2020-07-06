@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2023-07-01"
   description = ""
+  
+[[item]]
+  organization = "Google Analytics for Power Users"
+  organization_url = "https://analytics.google.com/analytics/academy/"
+  title = "Google Analytics for Power Users"
+  url = ""
+  certificate_url = "https://analytics.google.com/analytics/academy/certificate/2aXXlNyiQjm3J2nnLezktw"
+  date_start = "2020-07-01"
+  date_end = "2023-07-01"
+  description = ""
 
 [[item]]
   organization = "Google Analytics"
