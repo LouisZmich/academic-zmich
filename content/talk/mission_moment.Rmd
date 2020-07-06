@@ -1,9 +1,0 @@
----
-title: "Mission Moment"
-author: "Louis J Zmich"
-date: "7/1/2017"
-output: html_document
----
-Mission Moment: Student Star - Louie Zmich
-
-<https://vimeo.com/204077527>

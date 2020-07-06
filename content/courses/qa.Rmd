@@ -1,8 +1,0 @@
----
-title: "Quantitative Analysis"
-author: "Louis J Zmich"
-date: "7/1/2017"
-output: html_document
----
-
-Information regarding QA help will be presented here over the course of the fall quarter. 
