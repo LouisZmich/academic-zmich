@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Website Development"
-  content = "Landing Page Designed in R-Studio: $300. Additional Pages: $150"
+  content = "Landing Page Designed in R-Studio: $300. Additional Pages: $100"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
