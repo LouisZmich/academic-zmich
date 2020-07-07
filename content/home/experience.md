@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Owner and Founder"
-  company = "Zmich Consulting"
+  company = "Zmich Consulting LLC"
   company_url = "https://zmichconsulting.com"
   location = "Ruston, Louisiana"
   date_start = "2020-01-01"
