@@ -5,7 +5,7 @@ tags:
 - Social Media
 - Writting
 date: 2017-05-27T00:00:00Z
-external_link: ''
+external_link: https://twitter.com/niubusiness?lang=en
 image:
   caption: Photo by NIU College of Business
   focal_point: Smart
