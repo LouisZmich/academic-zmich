@@ -5,7 +5,7 @@ share: true
 commentable: false
 editable: false
 header:
-  caption: ''
+  caption: 'Owned by Louis J. Zmich'
   image: zmich.png
 
 ---
