@@ -1,9 +1,8 @@
 +++
 active = true
-draft = true
 headless = false
 hero_media = ""
-title = ""
+title = "Zmich Consulting Products"
 weight = nil
 widget = "portfolio"
 [cta]
