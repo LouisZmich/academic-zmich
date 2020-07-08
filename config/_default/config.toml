@@ -24,6 +24,10 @@ copyright = "Built, Coded, and Managed by Louis J. Zmich in R via Hugo Templates
 theme = "academic"
 googleAnalytics = "UA-171835106-1"
 
+[params]
+  env = "PUBLIC"
+
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
