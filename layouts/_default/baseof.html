@@ -20,11 +20,14 @@
   <div class="container">
     {{ partial "site_footer" . }}
   </div>
+
+  {{ if and (eq .Site.Params.env "PUBLIC") (ne .Site.GoogleAnalytics "") }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
+
   {{ end }}
 
   {{ partial "citation" . }}
-{{ if and (eq .Site.Params.env "PUBLIC") (ne .Site.GoogleAnalytics "") }}
-    {{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
+
 </body>
 </html>
