@@ -70,3 +70,5 @@ fields:
   - type: textarea
     name: label
     label: label
+pages:
+- content/Products.md
