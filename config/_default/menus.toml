@@ -34,3 +34,8 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main]]
+   name = "Zmich Consulting"
+   url = "/products"
+   weight = 70
