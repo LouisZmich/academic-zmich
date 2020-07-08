@@ -16,9 +16,7 @@
 
 {{/* Generate homepage. */}}
 {{ partial "widget_page.html" . }}
-{{ if and (eq .Site.Params.env "PUBLIC") (ne .Site.GoogleAnalytics "") }}
-    {{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
+
 {{- end -}}
 
 
