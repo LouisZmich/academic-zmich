@@ -29,8 +29,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = ""
-  cta_url = ""
+  cta_label = "Find Out More"
+  cta_url = "/products"
   cta_icon_pack = ""
   cta_icon = ""
 
