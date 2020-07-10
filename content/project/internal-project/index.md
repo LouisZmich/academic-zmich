@@ -1,8 +1,9 @@
 ---
 title: NIU Business Magazine - Crossing Boundaries
-summary: An example of using the in-built project page.
+summary: Helped develop, write, and publish the NIU CoB Magazine.
 tags:
-- Deep Learning
+- Magazine
+- Publishing
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
