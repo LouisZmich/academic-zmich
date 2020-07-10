@@ -48,7 +48,7 @@ local_business_type = "ProfessionalService"
 org_name = "Zmich Consulting"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Website for students to use as a class resource, and academics to use as a reference."
+description = "Marketing consulting resource for small businesses to grow."
 
 ############################
 ## Site Features
@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ljz001@latech.edu"
+email = "zmichconsulting.com"
 phone = "224 406 1273"
 
 # Address
@@ -107,7 +107,7 @@ directions = "In Room 112 on Bottom Floor"
 office_hours = ["Online Office Hours: [Monday | Wednesday | Friday: 9:30 am - 12 pm], [Tuesday | Thursday: 1 pm - 3 pm]"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/louiszmich/office-hours"
+appointment_url = "https://calendly.com/louiszmich/marketing-consultation"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
