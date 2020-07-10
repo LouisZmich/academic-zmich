@@ -114,7 +114,7 @@ appointment_url = "https://calendly.com/louiszmich/office-hours"
 contact_links = [
   {icon = "telegram", icon_pack = "fab", name = "Email Me", link = "mailto:ljz001@latech.edu"},
   {icon = "youtube", icon_pack = "fab", name = "Watch Videos for Class", link = "https://www.youtube.com/channel/UC986QXxIvtrD5xnl4WAYv5w?view_as=subscriber"},
-  {icon = "github", icon_pack = "fab", name = "Build Your Own Website", link = "https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart"},
+  {icon = "github", icon_pack = "fab", name = "Build Your Own Website", link = "https://github.com/LouisZmich/LaTech"},
   {icon = "wix", icon_pack = "fab", name = "Let Me Build Your Site", link = "https://zmichconsulting.com"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
