@@ -25,10 +25,10 @@ image:
   caption: 'Image credit: [**Photo by Ilya Pavlov on Unsplash**](https://unsplash.com/photos/OqtafYT5kTw)'
   focal_point: Right
 links:
-- icon: 
-  icon_pack: 
-  name: PPTs
-  url: 
+#- icon: 
+#  icon_pack: 
+#  name:
+#  url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
