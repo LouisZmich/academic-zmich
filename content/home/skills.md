@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Data Analysis in R, STATA, SPSS, and SAS."  
+  description = "Data Analysis in Google Analytics, R, STATA, SPSS, and SAS."  
   
 [[feature]]
   icon = "salesforce"

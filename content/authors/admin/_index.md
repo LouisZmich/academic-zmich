@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Marketing and Sales Doctoral Candidate
+role: Owner of Zmich Consulting Marketing and Sales Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://works.bepress.com/louis-zmich/2/download/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include salesperson influence tactics, e-communication in the context of selling technology, measurement theory, and social media influencers in the sales context.
+bio: Zmich Consulting LLC specializes in comercial and hand-coded website development, social media management and content creation, along with Google analytical guidance on how to improve the success of your business.
 
 interests:
-- B2B Salesperson Influence Tactics 
-- e-Communication - Context of Selling Technology
-- Measurement Theory - Social Media Influencers
+- Website Development
+- Social Media Management
+- Google Analytical Guidance
 
 education:
   courses:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ljz001@latech.edu
+  link: mailto:zmichconsulting.com
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UC986QXxIvtrD5xnl4WAYv5w?view_as=subscriber
@@ -70,7 +70,8 @@ user_groups:
 - Visitors
 ---
 
-As of today, I can divide my research interests into three broad categories: (1) the evolution of sales with respect to technology, (2) bottom of the pyramid marketing, helping those who are in global social crisis with innovative marketing campaigns and techniques and (3) the salesperson–customer dyadic relationship. 
+Zmich Consulting LLC is a small, independently owned marketing consulting company that prides itself on honesty, transparency, and dedication to making your business perform the best online. I pride myself on learning the ins and outs of online brand management and social media guidance to provide you and your business the tools needed to be seen by your customers. The bottom line is, if your business is not online, you don't exist. However, only "being online" is not enough anymore. Companies are forced to optimize their business by using tools like Google Analytics, Google Tag Manager, and Google Ads to the best of their ability. Businesses must optimize their advertising to be seen by customers at the right time. Not to mention having a cohesive brand image on all social media platforms, so people know what you offer and how you can benefit their lives. 
 
-I plan to work, research, and produce knowledge in these (or other) categories in the years to come.
-It is the research element that drives my passion for the doctoral program. As a sales and marketing student, the classroom setting for me has always brought excitement, and a sense of discovery as new knowledge is presented to young professionals looking to make a difference in this world. But it is the research aspect that will fulfill my desire to solve the questions that life continuously refuses to answer.
+All of these tools can be overwhelming. You're a business owner, and as such, time is a scarce resource. That's where I come in. I will work with you and be your digital consultant, making sure your business is seen by the customer that matters to your bottom line while making sure you know how to optimize your business's strategy and mission best. I have worked with both the [Ruston Farmers Market](rustonfarmersmarket.org) and [Holly Creek Farm](hollycreek.farm) to optimize their online presence and ensure proper Google search engine optimization (SEO). In addition to these working experiences, I have been plugged into the social media space for over five years now. As an intern, I worked alongside the Northern Illinois University's College of Business and helped maximize their social media potential. Lastly, I am a self-taught website designer, and with the help of R-Studio and Hugo Themes, I designed and coded this very website you are on now. 
+
+I look forward to working with you and your business soon. Thank you for visiting.
