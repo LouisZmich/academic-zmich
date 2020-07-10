@@ -104,7 +104,7 @@ directions = "In Room 112 on Bottom Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Online Office Hours: [Monday | Wednesday | Friday: 9:30 am - 12 pm], [Tuesday | Thursday: 1 pm - 3 pm]"]
+office_hours = ["Online Marketing Consultation Hours: [Monday | Wednesday | Friday: 1 pm - 5 pm], [Tuesday | Thursday: 3 pm - 5 pm]"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/louiszmich/marketing-consultation"

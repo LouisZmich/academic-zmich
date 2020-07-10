@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Courses
+title: Service Offerings
 
 # View.
 #   1 = List
