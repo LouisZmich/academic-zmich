@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Owner and Founder"
   company = "Zmich Consulting LLC"
-  company_url = "https://zmichconsulting.com"
+  company_url = "https://louiszmich.netlify.app/products/"
   location = "Ruston, Louisiana"
   date_start = "2020-01-01"
   date_end = ""
